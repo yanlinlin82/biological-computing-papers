@@ -2,18 +2,16 @@
 
 一个持续更新的专有领域知识库，聚焦生物计算机与DNA存储，通过收集和整理最新科研文献提供信息。
 
+网址：<https://biological-computing-papers.bioinfo-assist.com/>
+
 ---
 
-## 动机
-
-本仓库从 [what-deep-learning-does-in-biomedicine](https://github.com/yanlinlin82/what-deep-learning-does-in-biomedicine/) 拷贝和修改而来。
-
-## 如何使用
+## 如何从头搭建
 
 1. 克隆本仓库：
 
     ```sh
-    git clone https://github.com/yanlinlin82/single-cell-papers.git
+    git clone https://github.com/yanlinlin82/biological-computing-papers.git
     ```
 
 2. 准备环境
